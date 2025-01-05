@@ -25,8 +25,8 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
 - src/
 ├── com.tu.paquete/
-│   ├── ChatServer.java   # Código del servidor
-│   ├── ChatClient.java   # Código del cliente
-│   ├── Message.java      # Clase para representar mensajes (opcional)
+│   ├── Servidor.java           # Código del servidor
+│   ├── Cliente.java            # Código del cliente
+│   ├── GestorCliente.java      # Clase que gestiona los mensajes entre clientes y servidor
 
 
